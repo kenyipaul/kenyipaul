@@ -1,72 +1,78 @@
-<!-- Top Banner: Using the banner from your portfolio -->
-<img src="https://kenyi.vercel.app/banner.png" width="100%" alt="Kenyi Banner">
+<!-- Top Banner -->
+<img src="https://kenyi.pntr.dev/banner.png" width="100%" alt="Kenyi Paul Dilla Banner">
 
-<h1 align="center">Greetings ⚡ I'm Kenyi Paul Dilla</h1>
+<h1 align="center">Kenyi Paul Dilla ⚡</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Systems Architecture & Modular Frontend Design</b><br>
-  I bridge the gap between high-performance systems and professional user interfaces. Currently in a deep-work phase architecting scalable Rust backends alongside structured, high-contrast React and Astro frontends.
+  <b>Software Engineer · Backend Systems · Full-Stack Development</b>
+  <br><br>
+  I build software with an emphasis on system design, performance, and deliberate engineering.
+  From backend infrastructure to polished interfaces, I care about how the pieces fit together,
+  how systems behave under pressure, and how software can solve problems beyond the ordinary.
+  <br><br>
+  <a href="https://kenyi.pntr.dev">Portfolio</a> ·
+  <a href="https://linkedin.com/in/kenyi-paul">LinkedIn</a>
 </p>
 
-<hr>
+---
 
-### 💫 About Me
+### 🧠 About Me
 
-<!-- Right-aligned Illustration -->
-<a href="https://kenyi.vercel.app">
-  <img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Animation" />
-</a>
+I'm a software engineering student and developer interested in the engineering beneath the interface: system architecture, concurrency, data flow, performance, and the algorithms that make complex software work.
 
-- ⚡ **Identity:** Full-Stack Developer specializing in the complete lifecycle of high-performance web applications.
-- 🏗️ **Frontend Focus:** Designing professional, minimal UI/UX using Bento Grids and high-contrast aesthetics in React and Astro.
-- 🦀 **Backend Focus:** Building robust, concurrent server infrastructure using Rust, Axum, and SQLx.
-- 🧠 **Current Project:** Scaling **Brevishop**, a multi-vendor marketplace focusing on complex payment orchestration and vendor dashboards.
-- 🛠️ **Tech Philosophy:** Performance is a feature. I prioritize deep work and technical rigor over performative interactions.
-- 📍 **Location:** South Sudan / Rwanda.
+- ⚙️ **Backend Engineering:** Building APIs and server-side systems with Go, relational databases, caching, and asynchronous workflows.
+- 🏗️ **System Design:** Exploring modular architectures, scalability, observability, and the trade-offs behind engineering decisions.
+- 🎨 **Frontend Engineering:** Building structured, responsive interfaces with TypeScript, React, and Astro, with an emphasis on visual clarity and usability.
+- 🧪 **Beyond CRUD:** Interested in AI-integrated systems, algorithms, simulation, and optimization as ways to tackle problems that ordinary application development doesn't fully address.
+- 🐧 **My Environment:** Linux, terminal-first workflows, and a development setup built around experimentation and iteration.
+- 🎯 **My Approach:** Understand the problem, examine the constraints, choose the right abstractions, and measure what matters.
 
-<br><br>
+### 🛠️ Technologies & Tools
 
-### 📫 Connect with me:
-<p align="left">
-  <a href="mailto:kenyipaul69@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/kenyi-paul">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://kenyi.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<br>
-
-<!-- Large Side-by-Side Stats Cards -->
-<h3 align="center">📊 GitHub Status</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kenyipaul&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyipaul&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
-</div>
-
-<br>
-
-<!-- Dense Skill Icon Grid -->
-<h3 align="center">🧰 Languages & Tools I Have Placed My Hands On</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,ts,js,nodejs,postgres,react,astro,tailwind,docker,figma,express,nestjs,supabase,prisma,git,linux&perline=8" alt="Tech Stack Grid" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=go,ts,js,react,astro,nodejs,postgres,redis,docker,tailwind,figma,git,linux&perline=7" alt="Technologies and tools" />
 </p>
 
-<br>
+### 🚀 Selected Projects
 
-<!-- Side-by-Side Pinned Repos -->
-<h3 align="center">⭐ Featured Projects</h3>
 <div align="center">
   <a href="https://github.com/kenyipaul/ultimate_server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenyipaul&repo=ultimate_server&theme=tokyonight" width="48%" alt="Ultimate Server Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenyipaul&repo=ultimate_server&theme=tokyonight&hide_border=true" width="48%" alt="Ultimate Server repository" />
   </a>
   <a href="https://github.com/kenyipaul/Brevishop">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenyipaul&repo=Brevishop&theme=tokyonight" width="48%" alt="Brevishop Repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kenyipaul&repo=Brevishop&theme=tokyonight&hide_border=true" width="48%" alt="Brevishop repository" />
   </a>
 </div>
+
+<p align="center">
+  More experiments, projects, and source code live in my repositories.
+  <br>
+  <a href="https://github.com/kenyipaul?tab=repositories">Explore all repositories →</a>
+</p>
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kenyipaul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenyipaul&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%" alt="Most used programming languages" />
+</p>
+
+### 📫 Find Me
+
+<p align="left">
+  <a href="https://kenyi.pntr.dev">
+    <img src="https://img.shields.io/badge/Portfolio-6C4CF1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/kenyi-paul">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kenyipaul69@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Interested in what happens when solid engineering meets difficult problems.</i>
+</p>
